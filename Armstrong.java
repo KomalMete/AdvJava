@@ -27,6 +27,7 @@ package sdm;
 			{
 				System.out.println(sum + " is not a Armstrong number ");
 			}
+			System.out.println(" Armstrong number ");
 
 		}
 
